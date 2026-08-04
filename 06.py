@@ -1,0 +1,12 @@
+a=int(input('Enter number:'))
+b=int(input('Enter number:'))
+c=int(input('Enter number:'))
+d=int(input('Enter number:'))
+e=int(input('Enter number:'))
+f=int(input('Enter number:'))
+g=int(input('Enter number:'))
+l=int(input('Enter number:'))
+o=int(input('Enter number:'))
+j=int(input('Enter number:'))
+sum=(a+b+c+d+e+f+g+l+o+j)//10
+print(sum)
