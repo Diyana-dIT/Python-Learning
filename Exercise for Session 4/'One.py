@@ -8,7 +8,6 @@ while person !=a:
         print('عدد را کوچکتر کن!') 
     elif person<a: 
         print('عدد را بزرگتر کن!')
-    
     elif person==a:
         print('افرین!درست حدس زدی :)')
     
