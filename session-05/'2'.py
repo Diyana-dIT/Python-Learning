@@ -1,6 +1,6 @@
-a=('Enter:')
+a=input('Enter:')
 t=''
 for i in a:
     if i not in t:
-               t+=1
+               t+=i
 print(t)
