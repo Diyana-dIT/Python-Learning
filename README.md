@@ -1,6 +1,4 @@
-# 👧🏻 Welcome to My Python Learning
-Hi! My name is Diyana.
-I'm learning Python and sharing my programming projects here.
+# 👧🏻 Welcome
 
 ## 💡Language
 -Python
