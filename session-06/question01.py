@@ -11,5 +11,5 @@ print('average:',sum(products.values())/len(products))
 print('sum:',sum(products.values()))
 print('More than 500:',end=' ')
 for i in products:
-    if products[i] > 500:
+    if products[i]>500:
         print(products[i], end=' ')
