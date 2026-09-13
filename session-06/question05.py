@@ -14,8 +14,8 @@ for name, scores in students.items():
         status="مردود"
 
     highest = max(scores)
-    print("نام:", name)
-    print("میانگین:", average)
-    print("وضعیت:", status)
-    print("بالاترین نمره:", highest)
+    print("نام:",name)
+    print("میانگین:",average)
+    print("وضعیت:",status)
+    print("بالاترین نمره:",highest)
     print("----------------")
