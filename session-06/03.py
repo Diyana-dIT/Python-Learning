@@ -13,7 +13,7 @@ b={}
 for i in text:
     if i.isalpha():
         if i in b:
-            b[i] += 1
+            b[i]+=1
         else:
-            b[i] = 1
+            b[i]=1
 print(b)
